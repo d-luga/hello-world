@@ -1,10 +1,10 @@
 # Denis Lugavtsov  
 **Senior Frontend Developer**  
 
-- **LinkedIn:** [denis-lugavtsov](https://www.linkedin.com/in/denis-lugavtsov/)  
-- **Email:** [d.lugavtsov@gmail.com](mailto:d.lugavtsov@gmail.com)  
-- **WhatsApp:** [+39 327 620 3410 GMT+1](https://wa.me/+393276203410)  
-- **GitHub:** [d-luga/hello-world](https://github.com/d-luga/hello-world)  
+- **LinkedIn:** [denis-lugavtsov](https://www.linkedin.com/in/denis-lugavtsov/)
+- **Email:** [d.lugavtsov@gmail.com](mailto:d.lugavtsov@gmail.com)
+- **WhatsApp:** [+351 932 538835 GMT+1](https://wa.me/+351932538835)
+- **GitHub:** [d-luga/hello-world](https://github.com/d-luga/hello-world)
 
 ---
 
